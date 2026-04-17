@@ -18,7 +18,7 @@
 - `Policy.md` -> `docs/snippets/` or `docs/playbooks/`
 - `Senha-segura.md` -> `docs/playbooks/`
 - `Threat-Hunt.md` -> `docs/threat-hunting/`
-- `lateral-movement-via-explicit-credentials.md.md` -> `docs/threat-hunting/explicit-credentials.md`
+- `lateral-movement-via-explicit-credentials.md.md` -> `docs/threat-hunting/explicit-creds.md`
 - `lateral-movement-windows-authentication-logs.md.md` -> `docs/threat-hunting/windows-lateral-movement.md`
 - `psexec-windows-events.md.md` -> `docs/threat-hunting/psexec-events.md`
 
@@ -31,6 +31,6 @@
 
 ## Current repo
 
-- `docs/threat-hunting/explicit-credentials.md`
+- `docs/threat-hunting/explicit-creds.md`
 - `docs/threat-hunting/windows-lateral-movement.md`
 - `docs/threat-hunting/psexec-events.md`

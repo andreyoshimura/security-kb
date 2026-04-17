@@ -4,8 +4,8 @@ Notas para triagem, investigação e resposta.
 
 ## Pages
 
-- [Phishing and triage](phishing-and-triage.md)
-- [Sandboxing and investigation](sandboxing-and-investigation.md)
+- [Phishing triage](phishing-triage.md)
+- [Sandboxing](sandboxing.md)
 
 ## Related
 

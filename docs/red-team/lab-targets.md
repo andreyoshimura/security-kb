@@ -8,4 +8,3 @@
 ## XSS test
 
 `<script>alert("test")</script>`
-

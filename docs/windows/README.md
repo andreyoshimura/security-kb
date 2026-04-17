@@ -4,7 +4,7 @@ Comandos, logs e operação em ambiente Windows.
 
 ## Pages
 
-- [GPO and AD commands](gpo-and-ad-commands.md)
+- [GPO and AD](gpo-ad.md)
 
 ## Related
 

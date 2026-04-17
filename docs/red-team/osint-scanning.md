@@ -1,4 +1,4 @@
-# OSINT and scanning
+# OSINT scanning
 
 ## Password leak check
 
@@ -51,4 +51,3 @@ Open source intelligence is the act of gathering and analyzing publicly availabl
 - http://testphp.vulnweb.com/
 - https://owasp.org/www-project-vulnerable-web-applications-directory/
 - https://vuldb.com/
-

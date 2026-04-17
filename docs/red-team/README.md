@@ -4,8 +4,8 @@ Notas de reconhecimento e validação controlada.
 
 ## Pages
 
-- [OSINT and scanning](osint-and-scanning.md)
-- [Lab targets](vuln-labs.md)
+- [OSINT scanning](osint-scanning.md)
+- [Lab targets](lab-targets.md)
 - [Tools](tools.md)
 
 ## Related

@@ -1,4 +1,4 @@
-# XSS and conditional access
+# XSS conditional access
 
 ## Vulnerable site
 
@@ -16,4 +16,3 @@ Reference:
 ## Conditional Access
 
 - [List conditional Access](https://github.com/nicolonsky/ConditionalAccessDocumentation)
-

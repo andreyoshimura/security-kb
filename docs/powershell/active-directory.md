@@ -1,4 +1,4 @@
-# Active Directory commands
+# Active Directory
 
 ## Accounts inactive more than 90 days
 
@@ -76,4 +76,3 @@ Get-ADUser nomedousuario -Properties msDS-UserPasswordExpiryTimeComputed |
 Get-ADUser USUARIO -Properties * |
   Select-Object Name, @{Name='pwdLastSet';Expression={[DateTime]::FromFileTime($_.pwdLastSet)}}
 ```
-

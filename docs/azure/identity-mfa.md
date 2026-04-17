@@ -1,4 +1,4 @@
-# Identity and MFA
+# Identity MFA
 
 ## SSPR
 
@@ -22,4 +22,3 @@ Source:
 Additional material:
 - https://learn.microsoft.com/pt-br/azure/active-directory/conditional-access/concept-conditional-access-policies
 - https://github.com/nicolonsky/ConditionalAccessDocumentation
-

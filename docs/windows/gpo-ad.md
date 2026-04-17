@@ -1,4 +1,4 @@
-# GPO and AD commands
+# GPO and AD
 
 ## GPRESULT
 
