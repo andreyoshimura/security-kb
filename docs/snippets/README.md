@@ -1,6 +1,6 @@
 # Snippets
 
-Trechos curtos, consultas rápidas e comandos de uso frequente.
+Short snippets, quick queries, and frequently used commands.
 
 ## Pages
 

@@ -1,6 +1,6 @@
 # Forensics
 
-Coleta, análise e preservação de evidências.
+Collection, analysis, and preservation of evidence.
 
 ## Pages
 

@@ -1,6 +1,6 @@
 # Blue Team
 
-Notas para triagem, investigação e resposta.
+Notes for triage, investigation, and response.
 
 ## Pages
 

@@ -1,6 +1,6 @@
 # Red Team
 
-Notas de reconhecimento e validação controlada.
+Notes for reconnaissance and controlled validation.
 
 ## Pages
 

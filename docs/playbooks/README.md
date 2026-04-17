@@ -1,6 +1,6 @@
 # Playbooks
 
-Procedimentos repetíveis usados no trabalho.
+Repeatable procedures used in day-to-day work.
 
 ## Pages
 

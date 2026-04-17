@@ -1,6 +1,6 @@
 # Azure
 
-Notas de identidade, MFA, Conditional Access e troubleshooting.
+Notes for identity, MFA, Conditional Access, and troubleshooting.
 
 ## Pages
 

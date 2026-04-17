@@ -1,6 +1,6 @@
 # Windows
 
-Comandos, logs e operação em ambiente Windows.
+Commands, logs, and operations in a Windows environment.
 
 ## Pages
 

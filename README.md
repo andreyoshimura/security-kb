@@ -1,6 +1,6 @@
 # Security Knowledge Base
 
-Base de conhecimento pessoal para trabalho de segurança.
+Personal knowledge base for security work.
 
 Use [docs/index.md](docs/index.md) as the main entry point.
 

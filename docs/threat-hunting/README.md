@@ -1,6 +1,6 @@
 # Threat Hunting
 
-Hipóteses, fontes de dados e ideias de detecção.
+Hypotheses, data sources, and detection ideas.
 
 ## Objective
 

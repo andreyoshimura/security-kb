@@ -1,6 +1,6 @@
 # AppSec
 
-Referências e notas de segurança de aplicação.
+Application security references and notes.
 
 ## Pages
 

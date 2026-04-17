@@ -1,6 +1,6 @@
 # PowerShell
 
-Scripts e consultas recorrentes para Active Directory e operação.
+Recurring scripts and queries for Active Directory and operations.
 
 ## Pages
 
