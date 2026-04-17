@@ -34,3 +34,8 @@ setspn.exe -D "MSSQLSvc/KRISHNA03.SKGLAB.LOCAL:1433" "SKGLAB\SQLSvc-SQL2012"
 ```
 
 - https://sudeeptaganguly.wordpress.com/2015/08/03/removing-a-spn-ent
+
+## Related
+
+- [Active Directory](../powershell/active-directory.md)
+- [GPO and AD](../windows/gpo-ad.md)

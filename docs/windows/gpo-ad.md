@@ -23,3 +23,7 @@
 - Control Panel: `control panel`
 - Save CMD output to text: `netstat -na > neststat.txt`
 - Show message to a user: `msg /server:maquina usuario * "Favor troca a sua senha urgentemente"`
+
+## Related
+
+- [Active Directory](../powershell/active-directory.md)

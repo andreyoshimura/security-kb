@@ -13,3 +13,7 @@
 ## Legacy command spelling
 
 - `certutil -hasfile 'patchFile'`
+
+## Related
+
+- [Threat Hunting](../threat-hunting/README.md)

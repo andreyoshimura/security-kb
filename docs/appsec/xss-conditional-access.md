@@ -16,3 +16,7 @@ Reference:
 ## Conditional Access
 
 - [List conditional Access](https://github.com/nicolonsky/ConditionalAccessDocumentation)
+
+## Related
+
+- [Lab Targets](../red-team/lab-targets.md)

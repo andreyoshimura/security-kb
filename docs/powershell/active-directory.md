@@ -76,3 +76,7 @@ Get-ADUser nomedousuario -Properties msDS-UserPasswordExpiryTimeComputed |
 Get-ADUser USUARIO -Properties * |
   Select-Object Name, @{Name='pwdLastSet';Expression={[DateTime]::FromFileTime($_.pwdLastSet)}}
 ```
+
+## Related
+
+- [GPO and AD](../windows/gpo-ad.md)
