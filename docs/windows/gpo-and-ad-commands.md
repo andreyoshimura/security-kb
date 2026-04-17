@@ -22,4 +22,4 @@
 - Active Directory Users and Computers: `dsa.msc`
 - Control Panel: `control panel`
 - Save CMD output to text: `netstat -na > neststat.txt`
-
+- Show message to a user: `msg /server:maquina usuario * "Favor troca a sua senha urgentemente"`

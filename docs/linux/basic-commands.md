@@ -23,6 +23,7 @@
 - `cat /etc/os-release`
 - `lsb_release -a`
 - `cat /etc/redhat-release`
+- `man`
 - `service --status-all`
 - `sudo apt install python3-pip`
 - `/etc/passwd`
@@ -32,4 +33,3 @@
 ## Login issue
 
 - `Ctrl+Alt+F5`
-

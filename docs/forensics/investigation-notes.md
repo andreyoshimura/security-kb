@@ -10,3 +10,6 @@
 
 - `certutil -hashfile 'patchFile'`
 
+## Legacy command spelling
+
+- `certutil -hasfile 'patchFile'`

@@ -27,6 +27,10 @@ This repository is the normalized replacement for the old GitHub wiki.
 - `docs/threat-hunting/`: hipóteses, fontes e detecções.
 - `docs/migration-map.md`: mapa da wiki antiga para a nova estrutura.
 
+## External references
+
+- https://opensourcesecurityindex.io/
+
 ## Filosofia
 
 - Uma página por assunto.
