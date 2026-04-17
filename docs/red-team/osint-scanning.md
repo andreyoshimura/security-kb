@@ -1,4 +1,4 @@
-# OSINT scanning
+# OSINT and Scanning
 
 ## Password leak check
 

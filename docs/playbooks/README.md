@@ -4,7 +4,7 @@ Procedimentos repetíveis usados no trabalho.
 
 ## Pages
 
-- [Password policy](password-policy.md)
+- [Password Policy](password-policy.md)
 
 ## Related
 

@@ -1,4 +1,4 @@
-# GitHub ops
+# GitHub and Ops
 
 ## Git basics
 

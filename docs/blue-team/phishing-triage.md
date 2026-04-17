@@ -1,4 +1,4 @@
-# Phishing triage
+# Phishing and Triage
 
 ## Sandbox
 

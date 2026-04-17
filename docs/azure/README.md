@@ -4,7 +4,7 @@ Notas de identidade, MFA, Conditional Access e troubleshooting.
 
 ## Pages
 
-- [Identity MFA](identity-mfa.md)
+- [Identity and MFA](identity-mfa.md)
 
 ## Related
 

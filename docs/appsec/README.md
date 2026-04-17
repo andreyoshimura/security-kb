@@ -4,7 +4,7 @@ Referências e notas de segurança de aplicação.
 
 ## Pages
 
-- [XSS conditional access](xss-conditional-access.md)
+- [XSS and Conditional Access](xss-conditional-access.md)
 
 ## Related
 

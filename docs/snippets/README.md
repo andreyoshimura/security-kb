@@ -4,8 +4,8 @@ Trechos curtos, consultas rápidas e comandos de uso frequente.
 
 ## Pages
 
-- [Nmap commands](nmap-commands.md)
-- [GitHub ops](github-ops.md)
+- [Nmap Commands](nmap-commands.md)
+- [GitHub and Ops](github-ops.md)
 
 ## Related
 

@@ -1,4 +1,4 @@
-# Basic commands
+# Basic Commands
 
 ## Network tools
 

@@ -1,4 +1,4 @@
-# XSS conditional access
+# XSS and Conditional Access
 
 ## Vulnerable site
 

@@ -1,4 +1,4 @@
-# Nmap commands
+# Nmap Commands
 
 ## Scripts directory
 
@@ -15,4 +15,3 @@
 ## Locate SMB scripts
 
 - `locate .nse | grep smb`
-

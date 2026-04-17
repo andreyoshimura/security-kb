@@ -1,10 +1,10 @@
-# Explicit creds
+# Explicit Credentials
 
 Use this note when you want a focused page for explicit credential usage in lateral movement scenarios.
 
 ## Reference
 
-- [Windows lateral movement](windows-lateral-movement.md)
+- [Windows Lateral Movement](windows-lateral-movement.md)
 
 ## Summary
 

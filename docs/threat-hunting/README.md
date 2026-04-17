@@ -18,10 +18,10 @@ Hipóteses, fontes de dados e ideias de detecção.
 
 ## Pages
 
-- [Anomalous token](anomalous-token.md)
-- [Explicit creds](explicit-creds.md)
-- [Windows lateral movement](windows-lateral-movement.md)
-- [PsExec events](psexec-events.md)
+- [Anomalous Token](anomalous-token.md)
+- [Explicit Credentials](explicit-creds.md)
+- [Windows Lateral Movement](windows-lateral-movement.md)
+- [PsExec Events](psexec-events.md)
 
 ## Related
 

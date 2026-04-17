@@ -1,4 +1,4 @@
-# Lab targets
+# Lab Targets
 
 ## Sites vulnerable for testing
 

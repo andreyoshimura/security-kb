@@ -1,4 +1,4 @@
-# Windows lateral movement
+# Windows Lateral Movement
 
 ## Explicit credentials
 
@@ -22,4 +22,4 @@ Source page:
 - [CAR-2013-02-008: Simultaneous Logons on a Host](https://car.mitre.org/wiki/CAR-2013-02-008)
 - [CAR-2013-02-012: User Logged in to Multiple Hosts](https://car.mitre.org/wiki/CAR-2013-02-012)
 - [CAR-2016-04-004: Successful Local Account Login](https://car.mitre.org/wiki/CAR-2016-04-004)
-- [PsExec events](psexec-events.md)
+- [PsExec Events](psexec-events.md)

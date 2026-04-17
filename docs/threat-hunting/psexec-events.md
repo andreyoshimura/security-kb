@@ -1,4 +1,4 @@
-# PsExec events
+# PsExec Events
 
 ## Notes
 
@@ -10,4 +10,3 @@
 - https://twitter.com/jackcr/status/733686717446656001
 - https://twitter.com/jackcr/status/743587901468979202
 - https://twitter.com/JPoForenso/status/743663854601670656
-

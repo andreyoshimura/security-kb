@@ -1,4 +1,4 @@
-# Identity MFA
+# Identity and MFA
 
 ## SSPR
 

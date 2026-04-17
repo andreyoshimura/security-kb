@@ -4,7 +4,7 @@ Coleta, análise e preservação de evidências.
 
 ## Pages
 
-- [Investigation notes](investigation-notes.md)
+- [Investigation Notes](investigation-notes.md)
 
 ## Related
 
