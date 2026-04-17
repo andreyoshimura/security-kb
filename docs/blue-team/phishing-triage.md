@@ -11,7 +11,7 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 - https://sitecheck.sucuri.net/
 - https://otx.alienvault.com/submissions/list
 
-## Report site
+## Report Sites
 
 - https://submit.symantec.com/antifraud/phish.cgi
 - https://global.sitesafety.trendmicro.com/
@@ -27,7 +27,7 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 - https://www.scumware.org/add_url.php
 - [AbuseIP](https://www.abuseipdb.com/)
 
-## Report phishing
+## Report Phishing
 
 - https://phishing.eset.com/en-us/report
 - https://www.phishtank.com/
@@ -52,13 +52,13 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 - https://www.varonis.com/blog/malware-analysis-tools
 - https://qualempresameligou.com.br
 
-### Legacy references
+### Legacy References
 
 - http://robertocoval.blogspot.com/2014/07/log-de-eventos-de-seguranca-do-windows.html
 - https://linktr.ee/
 - https://www.winitor.com/
 
-## Free tools
+## Free Tools
 
 - https://support.kaspersky.com/utility
 - https://comunidadecloudhero.com.br/minha-conta-do-ad-esta-bloqueando-toda-hora/
@@ -67,7 +67,7 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 
 ## SIEM
 
-- Qradar Community V 7.3.3
+- QRadar Community V 7.3.3
 - https://iwm.dhe.ibm.com/sdfdl/1v2/regs2/qrce/Xa.2/Xb.BjmKLEMux3CLRewS6hFtl_GR6Q16oNGmcrDnwbbxIZg/Xc.QRadarCE733GA_v1_0.ova/Xd
 
 ## Honeypot
@@ -75,7 +75,7 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 - https://honeydb.io/
 - https://cyber.ltfe.org/datasets
 
-## Legacy report site entries
+## Legacy Report Sites
 
 - Baidu
 - PSafe
