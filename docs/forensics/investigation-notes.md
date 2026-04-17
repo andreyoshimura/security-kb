@@ -1,19 +1,19 @@
 # 🧾 Investigation Notes
 
-## Software analysis
+## 🔬 Software analysis
 
 - Autopsy
 - Malware analysis
 - Pestudio
 
-## Hash command
+## 🧾 Hash command
 
 - `certutil -hashfile 'patchFile'`
 
-## Legacy command spelling
+## 🕰️ Legacy command spelling
 
 - `certutil -hasfile 'patchFile'`
 
-## Related
+## 🔗 Related
 
 - [Threat Hunting](../threat-hunting/README.md)

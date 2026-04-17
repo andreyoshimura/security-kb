@@ -1,24 +1,24 @@
 # 🐧 Basic Commands
 
-## Network tools
+## 🌐 Network tools
 
 - Ncat
 - Netcat
 - `tcpdump -i eth0 -w namefile.pcap`
 
-## Files
+## 📁 Files
 
 - Locate
 - Find
 
-## vi
+## ✍️ vi
 
 - Insert to edit
 - `Esc` to exit insert mode
 - `:q` or `:q!` to quit
 - `:w` to save
 
-## System
+## 🖥️ System
 
 - `cat /etc/os-release`
 - `lsb_release -a`
@@ -30,6 +30,6 @@
 - `/etc/group`
 - `passwd`
 
-## Login issue
+## 🔑 Login issue
 
 - `Ctrl+Alt+F5`

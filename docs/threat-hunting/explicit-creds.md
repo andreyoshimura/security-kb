@@ -2,11 +2,11 @@
 
 Use this note when you want a focused page for explicit credential usage in lateral movement scenarios.
 
-## Reference
+## 🔗 Reference
 
 - [Windows Lateral Movement](windows-lateral-movement.md)
 
-## Summary
+## 📝 Summary
 
 - Look for abnormal `runas` usage.
 - Look for batch or service processes spawning with explicit creds.

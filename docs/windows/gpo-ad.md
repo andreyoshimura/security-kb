@@ -1,6 +1,6 @@
 # 🪟 GPO and AD
 
-## GPRESULT
+## 🧰 GPRESULT
 
 - `GPRESULT /R` for summary information
 - `GPRESULT /V` for detailed information
@@ -15,7 +15,7 @@
 - `GPRESULT /F` to force overwrite
 - `GPRESULT /Z` for super-detailed output
 
-## Common shortcuts
+## ⌨️ Common shortcuts
 
 - Task Manager: `taskmgr`
 - Run as another user: `runas /user:nomeusuario@dominio[.]com[.]br cmd`
@@ -24,6 +24,6 @@
 - Save CMD output to text: `netstat -na > neststat.txt`
 - Show message to a user: `msg /server:maquina usuario * "Favor troca a sua senha urgentemente"`
 
-## Related
+## 🔗 Related
 
 - [Active Directory](../powershell/active-directory.md)

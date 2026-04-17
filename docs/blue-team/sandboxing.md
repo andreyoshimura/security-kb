@@ -2,7 +2,7 @@
 
 Use this page when you need a quick place to test untrusted artifacts and gather context.
 
-## Notes
+## 📝 Notes
 
 - Prefer isolated execution.
 - Capture hashes, indicators, timestamps, and source URLs.

@@ -1,11 +1,11 @@
 # ⚙️ PsExec Events
 
-## Notes
+## 📝 Notes
 
 - PsExec activity usually leaves Windows event traces that are useful for lateral movement hunting.
 - Correlate process creation, service creation, and authentication logs.
 
-## References
+## 🔗 References
 
 - https://twitter.com/jackcr/status/733686717446656001
 - https://twitter.com/jackcr/status/743587901468979202
