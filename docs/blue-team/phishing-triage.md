@@ -42,7 +42,6 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 - https://www.winitor.com/
 - https://haveibeenpwned.com/
 - https://start.me/p/OmOrJb/threat-hunting
-- https://opentip.kaspersky.com/
 - https://securitytrails.com/
 - https://www.threatminer.org/
 - https://urlscan.io/search/#*
