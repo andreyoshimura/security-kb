@@ -52,6 +52,12 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 - https://www.varonis.com/blog/malware-analysis-tools
 - https://qualempresameligou.com.br
 
+### Legacy references
+
+- http://robertocoval.blogspot.com/2014/07/log-de-eventos-de-seguranca-do-windows.html
+- https://linktr.ee/
+- https://www.winitor.com/
+
 ## Free tools
 
 - https://support.kaspersky.com/utility
@@ -62,9 +68,20 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 ## SIEM
 
 - Qradar Community V 7.3.3
+- https://iwm.dhe.ibm.com/sdfdl/1v2/regs2/qrce/Xa.2/Xb.BjmKLEMux3CLRewS6hFtl_GR6Q16oNGmcrDnwbbxIZg/Xc.QRadarCE733GA_v1_0.ova/Xd
 
 ## Honeypot
 
 - https://honeydb.io/
 - https://cyber.ltfe.org/datasets
 
+## Legacy report site entries
+
+- Baidu
+- PSafe
+- McAfee
+- OpenPhish
+- OpenDNS
+- Alibaba
+- REDAMP
+- Trend Micro
