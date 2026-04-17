@@ -1,15 +1,15 @@
 # 🧫 Lab Targets
 
-## 🧪 Sites vulnerable for testing
+## Sites vulnerable for testing
 
 - http://www.vulnweb.com/
 - http://testphp.vulnweb.com/
 
-## 🧪 XSS test
+## XSS test
 
 `<script>alert("test")</script>`
 
-## 🔗 Related
+## Related
 
 - [XSS and Conditional Access](../appsec/xss-conditional-access.md)
 - [OSINT and Scanning](osint-scanning.md)

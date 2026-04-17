@@ -1,17 +1,17 @@
 # ✂️ Nmap Commands
 
-## 📁 Scripts directory
+## Scripts directory
 
 - `/usr/share/nmap/scripts`
 
-## 💾 Save output
+## Save output
 
 - `-oN output.txt`
 
-## 🚀 Quick port scan
+## Quick port scan
 
 - `nmap -T5`
 
-## 🔎 Locate SMB scripts
+## Locate SMB scripts
 
 - `locate .nse | grep smb`

@@ -1,11 +1,11 @@
 # 🔎 OSINT and Scanning
 
-## 🔓 Password leak check
+## Password leak check
 
 - https://haveibeenpwned.com/
 - https://www.dehashed.com/
 
-## 🛰️ OSINT
+## OSINT
 
 Open source intelligence is the act of gathering and analyzing publicly available data for intelligence purposes.
 
@@ -21,7 +21,7 @@ Open source intelligence is the act of gathering and analyzing publicly availabl
 - [Dork Scan](https://github.com/andreyoshimura/dork-scanner)
 - https://srwatson.co/
 
-## 🧪 Scan
+## Scan
 
 - https://sitecheck.sucuri.net/
 - https://www.yougetsignal.com/tools/open-ports/
@@ -39,20 +39,20 @@ Open source intelligence is the act of gathering and analyzing publicly availabl
 - https://www.immuniweb.com/websec/
 - https://geekflare.com/open-source-web-security-scanner/
 
-## 🛠️ Tools
+## Tools
 
 - www.httrack.com
 - https://www.whatsmydns.net/
 - https://docs.rapid7.com/metasploit/installing-the-metasploit-framework/
 
-## 📚 Study and labs
+## Study and labs
 
 - https://tryhackme.com/
 - http://testphp.vulnweb.com/
 - https://owasp.org/www-project-vulnerable-web-applications-directory/
 - https://vuldb.com/
 
-## 🔗 Related
+## Related
 
 - [Lab Targets](lab-targets.md)
 - [Phishing and Triage](../blue-team/phishing-triage.md)

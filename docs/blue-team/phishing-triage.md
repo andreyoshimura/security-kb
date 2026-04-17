@@ -1,6 +1,6 @@
 # 🛡️ Phishing and Triage
 
-## 🧪 Sandbox
+## Sandbox
 
 Sandboxing is a cybersecurity practice where you run code, observe and analyze it in a safe, isolated environment that mimics an end-user setup. It is used to inspect untrusted files and behavior before they reach production.
 
@@ -11,7 +11,7 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 - https://sitecheck.sucuri.net/
 - https://otx.alienvault.com/submissions/list
 
-## 🚨 Report Sites
+## Report Sites
 
 - https://submit.symantec.com/antifraud/phish.cgi
 - https://global.sitesafety.trendmicro.com/
@@ -27,13 +27,13 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 - https://www.scumware.org/add_url.php
 - [AbuseIP](https://www.abuseipdb.com/)
 
-## 🚨 Report Phishing
+## Report Phishing
 
 - https://phishing.eset.com/en-us/report
 - https://www.phishtank.com/
 - https://www.spamcop.net/
 
-## 🔎 Investigate
+## Investigate
 
 - https://www.bitcoinwhoswho.com/
 - http://www.cachedpages.com/
@@ -52,30 +52,30 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 - https://www.varonis.com/blog/malware-analysis-tools
 - https://qualempresameligou.com.br
 
-### 🕰️ Legacy References
+### Legacy References
 
 - http://robertocoval.blogspot.com/2014/07/log-de-eventos-de-seguranca-do-windows.html
 - https://linktr.ee/
 - https://www.winitor.com/
 
-## 🛠️ Free Tools
+## Free Tools
 
 - https://support.kaspersky.com/utility
 - https://comunidadecloudhero.com.br/minha-conta-do-ad-esta-bloqueando-toda-hora/
 - https://www.nomoreransom.org/en/index.html
 - https://noransom.kaspersky.com/
 
-## 📊 SIEM
+## SIEM
 
 - QRadar Community V 7.3.3
 - https://iwm.dhe.ibm.com/sdfdl/1v2/regs2/qrce/Xa.2/Xb.BjmKLEMux3CLRewS6hFtl_GR6Q16oNGmcrDnwbbxIZg/Xc.QRadarCE733GA_v1_0.ova/Xd
 
-## 🪤 Honeypot
+## Honeypot
 
 - https://honeydb.io/
 - https://cyber.ltfe.org/datasets
 
-## 🕰️ Legacy Report Sites
+## Legacy Report Sites
 
 - Baidu
 - PSafe
@@ -86,7 +86,7 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 - REDAMP
 - Trend Micro
 
-## 🔗 Related
+## Related
 
 - [OSINT and Scanning](../red-team/osint-scanning.md)
 - [Sandboxing](sandboxing.md)

@@ -1,14 +1,14 @@
 # ☁️ Identity and MFA
 
-## ☁️ SSPR
+## SSPR
 
 - https://learn.microsoft.com/pt-br/azure/active-directory/authentication/concept-registration-mfa-sspr-combined
 
-## 🔑 Token decoder
+## Token decoder
 
 - https://jwt.ms/
 
-## ☁️ MFA
+## MFA
 
 Multifactor authentication requires two or more of the following:
 
