@@ -22,3 +22,8 @@ Hipóteses, fontes de dados e ideias de detecção.
 - [Explicit credentials](explicit-credentials.md)
 - [Windows lateral movement](windows-lateral-movement.md)
 - [PsExec events](psexec-events.md)
+
+## Related
+
+- [Blue Team](../blue-team/README.md)
+- [Windows](../windows/README.md)

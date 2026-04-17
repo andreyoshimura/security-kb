@@ -6,3 +6,6 @@ Procedimentos repetíveis usados no trabalho.
 
 - [Password policy](password-policy.md)
 
+## Related
+
+- [Snippets](../snippets/README.md)

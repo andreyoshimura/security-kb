@@ -2,38 +2,24 @@
 
 Base de conhecimento pessoal para trabalho de segurança.
 
-This repository is the normalized replacement for the old GitHub wiki.
+Use [docs/index.md](docs/index.md) as the main entry point.
 
-## Objetivo
+## Navigation
 
-- Guardar notas operacionais que eu uso no dia a dia.
-- Organizar comandos, referências, playbooks e links úteis.
-- Manter o conteúdo fácil de buscar e fácil de atualizar.
-- Evitar páginas soltas sem contexto.
+- [Main index](docs/index.md)
+- [Migration map](docs/migration-map.md)
+- [Blue Team](docs/blue-team/README.md)
+- [Red Team](docs/red-team/README.md)
+- [Threat Hunting](docs/threat-hunting/README.md)
+- [Windows](docs/windows/README.md)
+- [Linux](docs/linux/README.md)
+- [PowerShell](docs/powershell/README.md)
+- [Azure](docs/azure/README.md)
+- [AppSec](docs/appsec/README.md)
+- [Forensics](docs/forensics/README.md)
+- [Playbooks](docs/playbooks/README.md)
+- [Snippets](docs/snippets/README.md)
 
-## Estrutura
-
-- `docs/index.md`: porta de entrada e índice central.
-- `docs/blue-team/`: investigação, hunting, triagem e defesa.
-- `docs/red-team/`: recon, enumeração e validação controlada.
-- `docs/azure/`: Microsoft Entra, Azure e identidade.
-- `docs/windows/`: administração, logs e troubleshooting.
-- `docs/linux/`: comandos e operações Linux.
-- `docs/powershell/`: automação e comandos PowerShell.
-- `docs/playbooks/`: procedimentos repetíveis.
-- `docs/snippets/`: trechos curtos e consultas rápidas.
-- `docs/forensics/`: análise forense e evidências.
-- `docs/appsec/`: testes e referências de AppSec.
-- `docs/threat-hunting/`: hipóteses, fontes e detecções.
-- `docs/migration-map.md`: mapa da wiki antiga para a nova estrutura.
-
-## External references
+## External reference
 
 - https://opensourcesecurityindex.io/
-
-## Filosofia
-
-- Uma página por assunto.
-- Títulos curtos e estáveis.
-- Menos link solto, mais contexto.
-- Todo comando importante precisa de exemplo e fonte.

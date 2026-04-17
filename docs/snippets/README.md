@@ -7,3 +7,7 @@ Trechos curtos, consultas rápidas e comandos de uso frequente.
 - [Nmap commands](nmap-commands.md)
 - [GitHub and ops notes](github-and-ops.md)
 
+## Related
+
+- [Red Team](../red-team/README.md)
+- [Playbooks](../playbooks/README.md)

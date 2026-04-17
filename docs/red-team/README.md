@@ -8,3 +8,6 @@ Notas de reconhecimento e validação controlada.
 - [Lab targets](vuln-labs.md)
 - [Tools](tools.md)
 
+## Related
+
+- [Snippets](../snippets/README.md)

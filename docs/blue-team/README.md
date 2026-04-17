@@ -6,5 +6,7 @@ Notas para triagem, investigação e resposta.
 
 - [Phishing and triage](phishing-and-triage.md)
 - [Sandboxing and investigation](sandboxing-and-investigation.md)
-- [Threat hunting](../threat-hunting/README.md)
 
+## Related
+
+- [Threat Hunting](../threat-hunting/README.md)

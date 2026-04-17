@@ -6,3 +6,6 @@ Coleta, análise e preservação de evidências.
 
 - [Investigation notes](investigation-notes.md)
 
+## Related
+
+- [Threat Hunting](../threat-hunting/README.md)

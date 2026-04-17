@@ -6,3 +6,6 @@ Notas de identidade, MFA, Conditional Access e troubleshooting.
 
 - [Identity and MFA](identity-and-mfa.md)
 
+## Related
+
+- [Windows](../windows/README.md)
