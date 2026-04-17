@@ -1,4 +1,4 @@
-# Sandboxing
+# 🧪 Sandboxing
 
 Use this page when you need a quick place to test untrusted artifacts and gather context.
 

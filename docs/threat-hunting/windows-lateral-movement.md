@@ -1,4 +1,4 @@
-# Windows Lateral Movement
+# 🪟 Windows Lateral Movement
 
 ## Explicit Credentials
 

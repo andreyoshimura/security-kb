@@ -1,4 +1,4 @@
-# Investigation Notes
+# 🧾 Investigation Notes
 
 ## Software analysis
 

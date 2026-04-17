@@ -1,4 +1,4 @@
-# Explicit Credentials
+# 🔑 Explicit Credentials
 
 Use this note when you want a focused page for explicit credential usage in lateral movement scenarios.
 

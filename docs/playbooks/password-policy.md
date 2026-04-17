@@ -1,4 +1,4 @@
-# Password Policy
+# 📘 Password Policy
 
 Reference:
 - https://www.securden.com/blog/top-10-password-policies.html

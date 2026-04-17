@@ -1,4 +1,4 @@
-# PsExec Events
+# ⚙️ PsExec Events
 
 ## Notes
 

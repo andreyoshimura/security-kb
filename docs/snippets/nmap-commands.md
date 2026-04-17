@@ -1,4 +1,4 @@
-# Nmap Commands
+# ✂️ Nmap Commands
 
 ## Scripts directory
 
