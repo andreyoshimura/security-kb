@@ -55,7 +55,6 @@ Sandboxing is a cybersecurity practice where you run code, observe and analyze i
 
 - http://robertocoval.blogspot.com/2014/07/log-de-eventos-de-seguranca-do-windows.html
 - https://linktr.ee/
-- https://www.winitor.com/
 
 ## Free Tools
 
