@@ -4,7 +4,7 @@
 
 - [Blue Team](blue-team/phishing-and-triage.md)
 - [Red Team](red-team/osint-and-scanning.md)
-- [Threat Hunting](threat-hunting/windows-lateral-movement.md)
+- [Threat Hunting](threat-hunting/README.md)
 - [Forensics](forensics/investigation-notes.md)
 - [AppSec](appsec/xss-and-conditional-access.md)
 
