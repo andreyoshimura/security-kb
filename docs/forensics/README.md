@@ -4,8 +4,8 @@ Collection, analysis, and preservation of evidence.
 
 ## Pages
 
-- [Investigation Notes](investigation-notes.md)
+- 🧾 [Investigation Notes](investigation-notes.md)
 
 ## Related
 
-- [Threat Hunting](../threat-hunting/README.md)
+- 🧭 [Threat Hunting](../threat-hunting/README.md)
